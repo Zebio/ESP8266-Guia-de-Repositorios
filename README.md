@@ -10,7 +10,12 @@ Todos esses projetos foram desenvolvidos no PlatformIO do VSCode. Para obter ins
 
 ### Repositórios
 
-[Web Server](https://github.com/Zebio/ESP8266-Web-Server)
+[Web Server com Arduíno](https://github.com/Zebio/ESP8266-Web-Server)
 utomação Residencial/Industrial onde temos um web server http que controla 2(ou mais) saídas digitais via Wireless.  
 Framework/Linguagem: Arduíno.  
+Periféricos/Tecnlogias: Wireless, Http server.
+
+[Web Server com RTOS](https://github.com/Zebio/ESP8266-Web-Server-ESP-IDF)
+utomação Residencial/Industrial onde temos um web server http que controla 2(ou mais) saídas digitais via Wireless.  
+Framework/Linguagem: ESP IDF.  
 Periféricos/Tecnlogias: Wireless, Http server.
